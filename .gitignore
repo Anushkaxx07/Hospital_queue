@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+.env
+dist/
+build/
+.DS_Store
+
+# Logs
+*.log
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
